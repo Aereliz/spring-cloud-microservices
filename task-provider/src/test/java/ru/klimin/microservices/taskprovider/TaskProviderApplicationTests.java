@@ -1,10 +1,10 @@
-package ru.klimin.microservices.taskimpl;
+package ru.klimin.microservices.taskprovider;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TaskImplApplicationTests {
+class TaskProviderApplicationTests {
 
 	@Test
 	void contextLoads() {
